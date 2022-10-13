@@ -1,0 +1,13 @@
+*{
+    background-color: #049b9b;
+    background-image: url("./images/NH-luchtfoto-2.jpg");
+}
+
+#headermainpage{
+    background-color: blue;
+    height: 50px;
+    font-size: 50px;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}

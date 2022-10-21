@@ -1,13 +1,33 @@
 *{
     background-color: #049b9b;
-    background-image: url("./images/NH-luchtfoto-2.jpg");
+}
+
+body{
+    background-image: url(./images/NH-luchtfoto-2.jpg);
 }
 
 #headermainpage{
     background-color: blue;
-    height: 50px;
+    height: 150px;
     font-size: 50px;
     background-repeat: no-repeat;
     height: 100%;
     width: 100%;
+}
+
+#footermainpage{
+    position: absolute;
+    background-color: red;
+    right: 0;bottom:0;left:0;
+}
+
+#sidebar{
+    position: absolute;
+    background-color: #fbff00;
+    width: 125px;
+    height: 500px;
+    border-radius: 25px;
+    padding: 15px;
+    right:25px;
+    top:110px;
 }
